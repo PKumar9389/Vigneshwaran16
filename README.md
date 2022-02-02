@@ -8,14 +8,35 @@
   </a>
 </h1>
 
+<!-- <p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p> -->
+
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/vigneshwaran-ml/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackovehttps://stackoverflow.com/users/9657881/vicki" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://discordapp.com/users/411601756611674112" title="Stack Overflow Profile"><img width="22" src="images/discord.png"> Discord </a></code>
+  
 </h5>
 <br>
+
+<a href="https://github.com/Vigneshwaran16?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vigneshwaran16"/>
+</a>
+<a href="https://github.com/Vigneshwaran16?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Vigneshwaran16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
 
 - 🔭 I’m currently working as a MEAN stack developer
 - 🌱 I’m currently learning ...
@@ -31,12 +52,14 @@
   <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="NodeJS" height="25" src="images/node.svg"></code>
-  <code><img title="NestJS" height="25" src="images/npm.svg"></code>
+  <code><img title="NestJS" height="25" src="images/nestjs.svg"></code>
   <code><img title="Express" height="25" src="images/express.png"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Docker" height="25" src="images/docker.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
