@@ -10,4 +10,4 @@
 
 [![Vignesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vigneshwaran16&theme=buefy-dark)](https://git.io/streak-stats)
 
-[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigneshwaran16)](https://github.com/anuraghazra/github-readme-stats)
+[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigneshwaran16&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
