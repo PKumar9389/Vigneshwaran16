@@ -54,6 +54,7 @@
 - 👯 I’m looking to collaborate on machine learning projects
 - 💬 Ask me about: Web Pentesting, NodeJS, Angular
 - 📫 How to reach me: iamoddcoder@gmail.com
+<br>
 
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
@@ -77,6 +78,8 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
 </p>
+<br>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
