@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vigneshwaran16.Vigneshwaran16">
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vigneshwaran....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vigneshwaran....;Nice+to+meet+you!&center=true&size=30&color=#7957D4">
   </a>
-</h1>
+</p>
 
 <!-- <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -24,19 +22,26 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/vigneshwaran-ml/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://stackovehttps://stackoverflow.com/users/9657881/vicki" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://discordapp.com/users/411601756611674112" title="Stack Overflow Profile"><img width="22" src="images/discord.png"> Discord </a></code>
+    <a href="https://www.linkedin.com/in/vigneshwaran-ml/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+  </code>
+  <code>
+    <a href="https://stackoverflow.com/users/9657881/vicki" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a>
+  </code>
+  <code>
+    <a href="https://discordapp.com/users/411601756611674112" title="Stack Overflow Profile"><img width="22" src="images/discord.png"> Discord </a>
+  </code>
   
 </h5>
 <br>
-
-<a href="https://github.com/Vigneshwaran16?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vigneshwaran16"/>
-</a>
-<a href="https://github.com/Vigneshwaran16?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Vigneshwaran16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Vigneshwaran16?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vigneshwaran16"/>
+  </a>
+  <a href="https://github.com/Vigneshwaran16?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Vigneshwaran16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+</p>
+<br>
 
 - 🔭 I’m currently working as a MEAN stack developer
 - 🌱 I’m currently learning ...
