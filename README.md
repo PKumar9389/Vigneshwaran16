@@ -22,13 +22,19 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/vigneshwaran-ml/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+    <a href="https://oddcoder.dev/" title="My website"><img width="22" src="images/website.svg"> My Website </a>
   </code>
   <code>
     <a href="https://stackoverflow.com/users/9657881/vicki" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a>
   </code>
   <code>
-    <a href="https://discordapp.com/users/411601756611674112" title="Stack Overflow Profile"><img width="22" src="images/discord.png"> Discord </a>
+    <a href="https://www.linkedin.com/in/vigneshwaran-ml/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+  </code>
+  <code>
+    <a href="https://discordapp.com/users/411601756611674112" title="Discord Profile"><img width="22" src="images/discord.png"> Discord </a>
+  </code>
+  <code>
+    <a href="https://medium.com/@vignesh16" title="Medium Profile"><img width="22" src="images/medium.png"> Medium </a>
   </code>
   
 </h5>
